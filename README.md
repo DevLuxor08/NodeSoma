@@ -1,2 +1,2 @@
 # NodeSoma
-Sistema em Node que soma numeros
+Sistema em Node usando o Laço de Repetição - Usando "FOR"
